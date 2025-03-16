@@ -7,7 +7,7 @@ I needed to have small image logos on my website and wanted to use Base64, and n
 ## Requirements
 
 - Python 3.x
-- [Pillow](https://pypi.org/project/Pillow/) (Install using `pip install Pillow` or `sudo apt install python3-pillow)
+- [Pillow](https://pypi.org/project/Pillow/) (Install using `pip install Pillow` or `sudo apt install python3-pillow`)
 
 ## Usage
 
