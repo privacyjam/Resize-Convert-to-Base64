@@ -1,4 +1,4 @@
-# Resize & Convert to Base64
+#Resize Image and Convert to Base64
 
 A simple Python script that resizes an image to a specified size and outputs it as a Base64-encoded PNG.
 
